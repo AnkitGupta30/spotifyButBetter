@@ -38,4 +38,8 @@ This project is a Spotify-inspired application that incorporates real-time messa
     ```
 
 
+    ![Screenshot 2025-01-09 232926](https://github.com/user-attachments/assets/8883e847-880f-4c56-959b-1022d39930fd)
+
+
+
 
